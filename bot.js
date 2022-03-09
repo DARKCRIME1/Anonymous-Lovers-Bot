@@ -120,7 +120,7 @@ ${chalk.blue.italic('⚜️⚕️ Connecting to WhatsApp...▶')}`);
          console.log(chalk.green.bold('USER CONFIRMED 👺')
          );
          }
-         else if { 
+         else { 
          	
          console.log(chalk.green.bold('YOU CAN NOT USE THIS BOT 👺')
          );
