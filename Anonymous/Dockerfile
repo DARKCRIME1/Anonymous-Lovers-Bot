@@ -1,4 +1,4 @@
-FROM fusuf/whatsasena:latest
+FROM node:latest
 
 RUN git clone https://github.com/DARKCRIME1/Anonymous-Lovers-Bot.git /root/Anonymous-Lovers-Bot
 WORKDIR /root/Anonymous-Lovers-Bot/
